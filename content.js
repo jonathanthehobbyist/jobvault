@@ -59,6 +59,6 @@ document.addEventListener('mouseup', () => {
     });
 
     // Remove button after a delay if not clicked
-    setTimeout(() => saveButton.remove(), 5000);
+    setTimeout(() => saveButton.remove(), 2000);
   }
 });
